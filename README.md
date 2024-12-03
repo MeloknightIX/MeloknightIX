@@ -29,16 +29,12 @@
     <th>Cross-Platform</th>
     <td>
     <p>PWA</p>
-      <!-- <img src="https://skillicons.dev/icons?i=electron"/> -->
-      <!-- capacitor -->
     </td>
   </tr>
   <tr>
     <th>Database</th>
     <td>
       <img src="https://skillicons.dev/icons?i=sqlite"/>
-      <!-- <img src="https://skillicons.dev/icons?i=mysql"/> -->
-      <!-- <img src="https://skillicons.dev/icons?i=postgres"/> -->
     </td>
   </tr>
   <tr>
@@ -54,6 +50,55 @@
     <td>
       <img src="https://skillicons.dev/icons?i=apple"/>
       <img src="https://skillicons.dev/icons?i=raspberrypi"/>
+    </td>
+  </tr>
+</table>
+
+#### I want to look into…
+
+<table>
+  <tr>
+    <th>Languages etc.</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=bash"/>
+      <img src="https://skillicons.dev/icons?i=md"/>
+      <img src="https://skillicons.dev/icons?i=regex"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Cross-Platform</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=electron"/>
+      <p>capacitor</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Database</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql"/> 
+      <img src="https://skillicons.dev/icons?i=postgres"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Testing</th>
+    <td>
+    <img src="https://skillicons.dev/icons?i=jest"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Tools</th>
+    <td>
+    <img src="https://skillicons.dev/icons?i=cloudflare"/>
+    <img src="https://skillicons.dev/icons?i=docker"/>
+    <img src="https://skillicons.dev/icons?i=nginx"/>
+    </td>
+  </tr>
+  <tr>
+    <th>OS</th>
+    <td>
+    <img src="https://skillicons.dev/icons?i=linux"/>
+    <img src="https://skillicons.dev/icons?i=ubuntu"/>
+    <img src="https://skillicons.dev/icons?i=mint"/>
     </td>
   </tr>
 </table>
