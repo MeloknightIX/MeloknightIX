@@ -28,7 +28,7 @@
   <tr>
     <th>Cross-Platform</th>
     <td>
-    <p>PWA</p>
+    <span>PWA</span>
     </td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@
     <th>Cross-Platform</th>
     <td>
       <img src="https://skillicons.dev/icons?i=electron"/>
-      <p>capacitor</p>
+      <span>capacitor</span>
     </td>
   </tr>
   <tr>
@@ -88,9 +88,9 @@
   <tr>
     <th>Tools</th>
     <td>
+    <img src="https://skillicons.dev/icons?i=nginx"/>
     <img src="https://skillicons.dev/icons?i=cloudflare"/>
     <img src="https://skillicons.dev/icons?i=docker"/>
-    <img src="https://skillicons.dev/icons?i=nginx"/>
     </td>
   </tr>
   <tr>
