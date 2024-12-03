@@ -4,12 +4,17 @@
 
 <table>
   <tr>
+    <th>Languages</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js"/>
+      <img src="https://skillicons.dev/icons?i=ts"/>
+    </td>
+  </tr>
+  <tr>
     <th>Frontend</th>
     <td>
       <img src="https://skillicons.dev/icons?i=html"/>
       <img src="https://skillicons.dev/icons?i=css"/>
-      <img src="https://skillicons.dev/icons?i=js"/>
-      <img src="https://skillicons.dev/icons?i=ts"/>
       <img src="https://skillicons.dev/icons?i=react"/>
     </td>
   </tr>
