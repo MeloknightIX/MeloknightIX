@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I currently work with…
+#### I'm currently working with…
 
 <table>
   <tr>
