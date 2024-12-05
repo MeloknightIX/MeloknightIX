@@ -15,6 +15,7 @@
       <img src="https://skillicons.dev/icons?i=ts"/>
     </td>
     <td>
+      <img src="https://skillicons.dev/icons?i=dart"/>
       <img src="https://skillicons.dev/icons?i=bash"/>
       <img src="https://skillicons.dev/icons?i=md"/>
       <img src="https://skillicons.dev/icons?i=regex"/>
@@ -43,8 +44,7 @@
       <span>PWA</span>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=electron"/>
-      <span>capacitor</span>
+      <img src="https://skillicons.dev/icons?i=flutter"/>
     </td>
   </tr>
   <tr>
