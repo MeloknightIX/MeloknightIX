@@ -61,7 +61,7 @@
     <th>Testing</th>
     <td></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=jest"/>
+      <img src="https://skillicons.dev/icons?i=vitest"/>
     </td>
   </tr>
   <tr>
@@ -72,6 +72,7 @@
       <img src="https://skillicons.dev/icons?i=github"/>
     </td>
     <td>
+      <img src="https://skillicons.dev/icons?i=vite"/>
       <img src="https://skillicons.dev/icons?i=nginx"/>
       <img src="https://skillicons.dev/icons?i=cloudflare"/>
       <img src="https://skillicons.dev/icons?i=docker"/>
