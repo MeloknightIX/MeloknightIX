@@ -89,4 +89,3 @@
     </td>
   </tr>
 </table>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/677040e770129741a8cd2312?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
