@@ -68,12 +68,12 @@
       <img src="https://skillicons.dev/icons?i=vscode"/>
       <img src="https://skillicons.dev/icons?i=git"/>
       <img src="https://skillicons.dev/icons?i=github"/>
-    </td>
-    <td>
       <img src="https://skillicons.dev/icons?i=vite"/>
       <img src="https://skillicons.dev/icons?i=nginx"/>
-      <img src="https://skillicons.dev/icons?i=cloudflare"/>
       <img src="https://skillicons.dev/icons?i=docker"/>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cloudflare"/>
     </td>
   </tr>
   <tr>
