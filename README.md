@@ -13,6 +13,7 @@
     <td>
       <img src="https://skillicons.dev/icons?i=js"/>
       <img src="https://skillicons.dev/icons?i=ts"/>
+      <img src="https://skillicons.dev/icons?i=python"/>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=dart"/>
@@ -29,10 +30,11 @@
     <td></td>
   </tr>
   <tr>
-    <th>Backend</th>
+    <th>Backend/Fullstack</th>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs"/>
       <img src="https://skillicons.dev/icons?i=express"/>
+      <img src="https://skillicons.dev/icons?i=nextjs"/>
     </td>
     <td></td>
   </tr>
