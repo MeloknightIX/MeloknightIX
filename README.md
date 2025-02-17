@@ -13,11 +13,11 @@
     <td>
       <img src="https://skillicons.dev/icons?i=js"/>
       <img src="https://skillicons.dev/icons?i=ts"/>
-      <img src="https://skillicons.dev/icons?i=python"/>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=dart"/>
       <img src="https://skillicons.dev/icons?i=bash"/>
+      <img src="https://skillicons.dev/icons?i=python"/>
     </td>
   </tr>
   <tr>
