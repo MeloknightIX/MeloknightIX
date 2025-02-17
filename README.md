@@ -53,7 +53,6 @@
       <img src="https://skillicons.dev/icons?i=sqlite"/>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql"/> 
       <img src="https://skillicons.dev/icons?i=postgres"/>
     </td>
   </tr>
@@ -61,7 +60,9 @@
     <th>Testing</th>
     <td></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vitest"/>
+      <img src="https://skillicons.dev/icons?i=jest"/>
+      <img src="https://skillicons.dev/icons?i=storybook"/>
+      <img src="https://skillicons.dev/icons?i=cypress"/>
     </td>
   </tr>
   <tr>
