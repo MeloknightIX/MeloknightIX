@@ -49,10 +49,10 @@
     <th>Database</th>
     <td>
       <img src="https://skillicons.dev/icons?i=sqlite"/>
-         <img src="https://skillicons.dev/icons?i=postgres"/>
-          <img src="https://skillicons.dev/icons?i=redis"/>
+      <img src="https://skillicons.dev/icons?i=postgres"/>
     </td>
     <td>
+       <img src="https://skillicons.dev/icons?i=redis"/>
     </td>
   </tr>
   <tr>
