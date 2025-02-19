@@ -15,7 +15,6 @@
       <img src="https://skillicons.dev/icons?i=ts"/>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=dart"/>
       <img src="https://skillicons.dev/icons?i=bash"/>
       <img src="https://skillicons.dev/icons?i=python"/>
     </td>
@@ -34,9 +33,9 @@
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs"/>
       <img src="https://skillicons.dev/icons?i=express"/>
-      <img src="https://skillicons.dev/icons?i=nextjs"/>
     </td>
-    <td></td>
+    <td>
+    </td>
   </tr>
   <tr>
     <th>Cross-Platform</th>
@@ -44,23 +43,23 @@
       <span>PWA</span>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter"/>
     </td>
   </tr>
   <tr>
     <th>Database</th>
     <td>
       <img src="https://skillicons.dev/icons?i=sqlite"/>
+         <img src="https://skillicons.dev/icons?i=postgres"/>
+          <img src="https://skillicons.dev/icons?i=redis"/>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres"/>
     </td>
   </tr>
   <tr>
     <th>Testing</th>
     <td></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=jest"/>
+      <img src="https://skillicons.dev/icons?i=vitest"/>
       <img src="https://skillicons.dev/icons?i=storybook"/>
       <img src="https://skillicons.dev/icons?i=cypress"/>
     </td>
